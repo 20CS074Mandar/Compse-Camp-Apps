@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App_1</string>
+    <string name="Mandar">Mandar Sangahvi</string>
+    <string name="Jetpack">Jetpack Compose</string>
+</resources>
