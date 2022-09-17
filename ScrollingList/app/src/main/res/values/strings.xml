@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Scrolling List</string>
+    <string name="rpcp">RPCP</string>
+    <string name="iiim">IIIM</string>
+    <string name="cspit">CSPIT</string>
+    <string name="cmpcia">CMPICA</string>
+    <string name="depstar">DEPSTAR</string>
+    <string name="pdpias">PDPIAS</string>
 </resources>
